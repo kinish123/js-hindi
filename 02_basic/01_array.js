@@ -16,7 +16,7 @@ console.log(myarr)
 console.log(myarr.includes(1))
 console.log(myarr.indexOf(9))
 
-const newArr=myarr.join()
+const newArr=myarr.join()//convert the array into string
 console.log(myarr)
 console.log(newArr)
 
