@@ -4,7 +4,7 @@ var accountpassword="12345"
 acountcity="jaipur"
 let accountstate;
 
-//accountid=2// not allowed
+//accountid=2 not allowed
 
 accountemail="neema@gmail.com"
 accountpassword="mvdvm"

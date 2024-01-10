@@ -4,7 +4,7 @@ let name="kinish";
 let age=16;
 let isloggedin=false
 
-//number=2 to the power 53
+//number=>2 to the power 53 (range)
 //bigint
 //string
 //boolean
@@ -15,5 +15,5 @@ let isloggedin=false
 //object
 
 console.log(typeof "kinish");
-console.log(typeof null);
-console.log(typeof undefined);
+console.log(typeof null);//object
+console.log(typeof undefined);//undefined
