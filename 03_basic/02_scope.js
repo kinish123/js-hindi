@@ -1,6 +1,6 @@
 let a=30
 const b=20
-var c=30
+var c=30//var cna be accesed from inside the scope
 
 console.log(a)
 console.log(b)

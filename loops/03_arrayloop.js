@@ -18,7 +18,7 @@ const map=new Map()
 map.set('IN','India')
 map.set('usa',"united states of america")
 map.set('fr',"france")
-//no unique value
+//unique value
 console.log(map)
 
 for (const key of map) {

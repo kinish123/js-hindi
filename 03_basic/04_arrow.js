@@ -7,7 +7,6 @@ const user={
     }
 }
 //this refers the current context
-
 user.welcomemessage()
 user.username="ram"
 user.welcomemessage()
