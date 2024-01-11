@@ -19,7 +19,7 @@ console.log(jsuser.fullname)
 console.log(jsuser[mysym])//interviw
 
 jsuser.email="kinish@chatgpt.com"
-//Object.freeze(jsuser)
+//  Object.freeze(jsuser)
 jsuser.email="kinish@google.com"    
 //console.log(jsuser)
 

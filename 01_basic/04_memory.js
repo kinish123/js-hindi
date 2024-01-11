@@ -1,4 +1,4 @@
-//stack(primitive) and 
+//stack(primitive) ==string,number,bigint,boolian,null ,undefined,symbol and 
 //heap(non primitive)==arry,object,functions
 //in stack the copy of original value is changed
 //in heap the changes are made in the original values

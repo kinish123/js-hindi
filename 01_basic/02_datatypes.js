@@ -6,7 +6,7 @@ let isloggedin=false
 
 //number=>2 to the power 53 (range)
 //bigint
-//string
+//string=""
 //boolean
 //null
 //undefined

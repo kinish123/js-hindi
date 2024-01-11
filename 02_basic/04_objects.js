@@ -1,3 +1,5 @@
+//singleton
+
 //const tinderuser=new Object()
 const tinderuser={}
 tinderuser.id="123abc"
@@ -52,9 +54,11 @@ console.log(tinderuser);
 console.log(Object.keys(tinderuser))
 console.log(Object.values(tinderuser))
 console.log(Object.entries(tinderuser))
+
 console.log(tinderuser.hasOwnProperty('isloggedin'))
 
 
+//destructure
 
 const course={
     coursename:"js in hindi",
